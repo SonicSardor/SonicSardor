@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SonicSardor
+- 👀 I’m interested in backend, data science and AI.
+- 🌱 I’m currently learning backend on python.
+- 📫 If you want to contact with me, you can do it through my gmail: sardormirzorakhimov@gmail.com(please don't forget notice in message that you get my gmail from GitHub).
